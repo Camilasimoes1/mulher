@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JejuGothic:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Iceland:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@700&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="wireframe-1">
+    		<div class="component-5">
+      			<div class="component-5-child">
+      			</div>
+      			<div class="login">Login</div>
+    		</div>
+    		<div class="component-27">
+      			<div class="quem-somos">CONTATO</div>
+    		</div>
+    		<div class="frame-parent">
+      			<div class="component-2-wrapper">
+        				<div class="component-2">
+          					<div class="quem-somos">EDUCAÇÃO</div>
+        				</div>
+      			</div>
+      			<div class="instance-parent">
+        				<div class="component-24-wrapper">
+          					<div class="component-24">
+            						<div class="quem-somos2">  Ambiente EAD</div>
+          					</div>
+        				</div>
+        				<div class="component-24-container">
+          					<div class="component-24">
+            						<div class="quem-somos2">  EBooks</div>
+          					</div>
+        				</div>
+        				<div class="component-24-frame">
+          					<div class="component-24">
+            						<div class="quem-somos2">  Seminarios</div>
+          					</div>
+        				</div>
+      			</div>
+    		</div>
+    		<div class="component-28">
+      			<div class="quem-somos">PRODUTOS</div>
+    		</div>
+    		<div class="component-21">
+      			<div class="quem-somos">QUEM SOMOS</div>
+    		</div>
+    		<div class="component-243">
+      			<div class="quem-somos">PROGRAMA DE AFILIADOS</div>
+    		</div>
+    		<div class="component-25">
+      			<div class="quem-somos">VAGAS</div>
+    		</div>
+    		<div class="component-26">
+      			<div class="quem-somos">REDE AUTORIZADA</div>
+    		</div>
+    		<div class="wireframe-1-child">
+    		</div>
+    		<img class="wireframe-1-item" alt="" src="Rectangle 67.png">
+    		
+    		<div class="wireframe-1-inner">
+    		</div>
+    		<div class="nome">Nome</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="cpf">CPF</div>
+    		<div class="wireframe-1-child1">
+    		</div>
+    		<div class="endereo">Endereço</div>
+    		<div class="wireframe-1-child2">
+    		</div>
+    		<div class="email">Email</div>
+    		<div class="wireframe-1-child3">
+    		</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="wireframe-1-child4">
+    		</div>
+    		<div class="servio">serviço</div>
+    		<div class="wireframe-1-child5">
+    		</div>
+    		<b class="finalizar">Finalizar</b>
+    		<div class="ellipse-div">
+    		</div>
+    		<div class="wireframe-1-child6">
+    		</div>
+    		<div class="pix">PIX</div>
+    		<div class="carto">Cartão</div>
+    		<img class="logo-pix-png-930x616-1-icon" alt="" src="logo-pix-png-930x616 1.png">
+    		
+    		<img class="purepngcom-visa-logologobrand-icon" alt="" src="purepng.com-visa-logologobrand-logoiconslogos-251519938794uqvcz 1.png">
+    		
+    		<div class="wireframe-1-child7">
+    		</div>
+    		<div class="paypal">Paypal</div>
+    		<img class="paypal-logo-transparent-free-p-icon" alt="" src="paypal-logo-transparent-free-png 1.png">
+    		
+    		<div class="wireframe-1-child8">
+    		</div>
+    		<div class="rede-de-afiliados">Rede de afiliados credenciada</div>
+    		<img class="connection2-512-1-icon" alt="" src="connection2-512 1.png">
+    		
+    		<div class="wireframe-1-child9">
+    		</div>
+    		<div class="forma-de-pagamento">Forma de pagamento</div>
+    		<img class="rectangle-icon" alt="" src="Rectangle 73.png">
+    		
+    		<img class="wireframe-1-child10" alt="" src="Rectangle 74.svg">
+    		
+    		<div class="inscreva-se-a">Inscreva se a uma conferência online de grupo</div>
+    		<img class="captura-de-tela-2024-09-09-172" alt="" src="Captura de tela 2024-09-09 172421 1.png">
+    		
+    		<b class="tem-dvidas-fale-container">
+      			<p class="tem-dvidas">Tem dúvidas?</p>
+      			<p class="blank-line">&nbsp;</p>
+      			<p class="blank-line">Fale conosco pelo nosso
+chat ou whatsapp</p>
+    		</b>
+    		<img class="desk-1-1" alt="" src="Desk (1) 1.png">
+    		
+    		<b class="combo-de-servios">COMBO DE SERVIÇOS</b>
+    		<img class="wireframe-1-child11" alt="" src="Rectangle 17.png">
+    		
+    		<div class="quem-somos10">QUEM SOMOS</div>
+    		<div class="wireframe-1-child12">
+    		</div>
+    		<div class="component-15">
+      			<div class="quem-somos">QUEM SOMOS</div>
+    		</div>
+    		<div class="component-16">
+      			<div class="quem-somos">Historia</div>
+    		</div>
+    		<div class="component-17">
+      			<div class="quem-somos">Criador</div>
+    		</div>
+    		<div class="component-18">
+      			<div class="quem-somos">Visão</div>
+    		</div>
+    		<div class="component-7">
+      			<div class="quem-somos">PRODUTOS</div>
+    		</div>
+    		<div class="component-19">
+      			<div class="quem-somos">Suplementos</div>
+    		</div>
+    		<div class="component-20">
+      			<div class="quem-somos">Vitaminas</div>
+    		</div>
+    		<div class="component-6">
+      			<div class="quem-somos">Personalizado</div>
+    		</div>
+    		<div class="component-22">
+      			<div class="quem-somos">EDUCAÇÃO</div>
+    		</div>
+    		<div class="component-8">
+      			<div class="quem-somos">CONTATO</div>
+    		</div>
+    		<div class="component-211">
+      			<div class="quem-somos">EBooks</div>
+    		</div>
+    		<div class="component-9">
+      			<div class="quem-somos">Seminarios</div>
+    		</div>
+    		<img class="aceros-icon" alt="" src="aceros.png">
+    		
+    		<img class="oip-14-icon" alt="" src="OIP (14).png">
+    		
+    		<img class="desk-1-icon" alt="" src="Desk 1.png">
+    		
+  	</div>
+  	
+  	<style>
+		.component-5-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 8px;
+  	background-color: #6459c5;
+}
+.login {
+  	position: absolute;
+  	top: 22.73%;
+  	left: 27.87%;
+  	font-weight: 500;
+}
+.component-5 {
+  	position: absolute;
+  	top: 58px;
+  	left: 1233px;
+  	width: 122px;
+  	height: 44px;
+  	font-size: 20px;
+  	color: #fff;
+}
+.quem-somos {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	font-weight: 500;
+}
+.component-27 {
+  	position: absolute;
+  	top: 71px;
+  	left: 562px;
+  	width: 86px;
+  	height: 18px;
+}
+.component-2 {
+  	align-self: stretch;
+  	position: relative;
+  	height: 19px;
+}
+.component-2-wrapper {
+  	width: 109px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.quem-somos2 {
+  	position: absolute;
+  	top: 21.21%;
+  	left: 0%;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.component-24 {
+  	width: 161px;
+  	position: relative;
+  	background-color: #fff;
+  	height: 33px;
+}
+.component-24-wrapper {
+  	align-self: stretch;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.component-24-container {
+  	align-self: stretch;
+  	height: 30px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	margin-top: -50px;
+  	position: relative;
+}
+.component-24-frame {
+  	align-self: stretch;
+  	height: 35px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	margin-top: -50px;
+  	position: relative;
+}
+.instance-parent {
+  	align-self: stretch;
+  	height: 1px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	opacity: 0;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 61px;
+  	left: 440px;
+  	width: 111px;
+  	height: 39px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.component-28 {
+  	position: absolute;
+  	top: 71px;
+  	left: 328px;
+  	width: 96px;
+  	height: 19px;
+}
+.component-21 {
+  	position: absolute;
+  	top: 71px;
+  	left: 189px;
+  	width: 117px;
+  	height: 19px;
+}
+.component-243 {
+  	position: absolute;
+  	top: 71px;
+  	left: 668px;
+  	width: 213px;
+  	height: 18px;
+}
+.component-25 {
+  	position: absolute;
+  	top: 71px;
+  	left: 889px;
+  	width: 61px;
+  	height: 18px;
+}
+.component-26 {
+  	position: absolute;
+  	top: 71px;
+  	left: 962px;
+  	width: 154px;
+  	height: 18px;
+}
+.wireframe-1-child {
+  	position: absolute;
+  	top: 1790px;
+  	left: 160px;
+  	box-shadow: 0px 4px 13.5px rgba(0, 0, 0, 0.25);
+  	border-radius: 23px;
+  	background-color: #fff;
+  	width: 1120px;
+  	height: 612px;
+}
+.wireframe-1-item {
+  	position: absolute;
+  	top: 2155px;
+  	left: 1003px;
+  	border-radius: 23px;
+  	width: 43px;
+  	height: 24px;
+  	object-fit: cover;
+}
+.wireframe-1-inner {
+  	position: absolute;
+  	top: 1833px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.nome {
+  	position: absolute;
+  	top: 1859px;
+  	left: 226px;
+  	font-family: JejuGothic;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1923px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.cpf {
+  	position: absolute;
+  	top: 1949px;
+  	left: 226px;
+  	font-family: JejuGothic;
+}
+.wireframe-1-child1 {
+  	position: absolute;
+  	top: 2013px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.endereo {
+  	position: absolute;
+  	top: 2039px;
+  	left: 226px;
+  	font-family: JejuGothic;
+}
+.wireframe-1-child2 {
+  	position: absolute;
+  	top: 1833px;
+  	left: 800px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.email {
+  	position: absolute;
+  	top: 1859px;
+  	left: 826px;
+  	font-family: JejuGothic;
+}
+.wireframe-1-child3 {
+  	position: absolute;
+  	top: 1919px;
+  	left: 800px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.telefone {
+  	position: absolute;
+  	top: 1945px;
+  	left: 826px;
+  	font-family: JejuGothic;
+}
+.wireframe-1-child4 {
+  	position: absolute;
+  	top: 2103px;
+  	left: 200px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.servio {
+  	position: absolute;
+  	top: 2129px;
+  	left: 225px;
+  	font-family: JejuGothic;
+}
+.wireframe-1-child5 {
+  	position: absolute;
+  	top: 2256px;
+  	left: 866px;
+  	border-radius: 13px;
+  	background-color: #4a6085;
+  	width: 284px;
+  	height: 80px;
+}
+.finalizar {
+  	position: absolute;
+  	top: 2277px;
+  	left: 941px;
+  	font-size: 32px;
+  	color: #fff;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 2108px;
+  	left: 884px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 22px;
+  	height: 24px;
+}
+.wireframe-1-child6 {
+  	position: absolute;
+  	top: 2155px;
+  	left: 884px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 22px;
+  	height: 24px;
+}
+.pix {
+  	position: absolute;
+  	top: 2115px;
+  	left: 929px;
+  	font-family: JejuGothic;
+}
+.carto {
+  	position: absolute;
+  	top: 2159px;
+  	left: 929px;
+  	font-family: JejuGothic;
+}
+.logo-pix-png-930x616-1-icon {
+  	position: absolute;
+  	top: 2100px;
+  	left: 968px;
+  	width: 80px;
+  	height: 45.1px;
+  	object-fit: cover;
+}
+.purepngcom-visa-logologobrand-icon {
+  	position: absolute;
+  	top: 2153px;
+  	left: 1057px;
+  	width: 51px;
+  	height: 28px;
+  	object-fit: cover;
+}
+.wireframe-1-child7 {
+  	position: absolute;
+  	top: 2206px;
+  	left: 884px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 22px;
+  	height: 24px;
+}
+.paypal {
+  	position: absolute;
+  	top: 2210px;
+  	left: 929px;
+  	font-family: JejuGothic;
+}
+.paypal-logo-transparent-free-p-icon {
+  	position: absolute;
+  	top: 2184px;
+  	left: 984px;
+  	width: 81px;
+  	height: 68px;
+  	object-fit: cover;
+}
+.wireframe-1-child8 {
+  	position: absolute;
+  	top: 2206px;
+  	left: 200.23px;
+  	box-shadow: 0px 4px 10.4px rgba(0, 0, 0, 0.25);
+  	background: linear-gradient(180deg, #fff 39%, #999);
+  	width: 488.9px;
+  	height: 153.9px;
+  	transform:  rotate(0.1deg);
+  	transform-origin: 0 0;
+}
+.rede-de-afiliados {
+  	position: absolute;
+  	top: 2237px;
+  	left: 243px;
+  	font-size: 40px;
+  	font-family: Iceland;
+  	display: inline-block;
+  	width: 270px;
+  	height: 93px;
+}
+.connection2-512-1-icon {
+  	position: absolute;
+  	top: 2229px;
+  	left: 541px;
+  	width: 108px;
+  	height: 108px;
+  	object-fit: cover;
+}
+.wireframe-1-child9 {
+  	position: absolute;
+  	top: 2013px;
+  	left: 800px;
+  	border-radius: 21px;
+  	background-color: #d8d8d8;
+  	width: 426px;
+  	height: 68px;
+}
+.forma-de-pagamento {
+  	position: absolute;
+  	top: 2039px;
+  	left: 826px;
+  	font-family: JejuGothic;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 2527px;
+  	left: 744px;
+  	border-radius: 14px;
+  	width: 625px;
+  	height: 336px;
+  	object-fit: cover;
+}
+.wireframe-1-child10 {
+  	position: absolute;
+  	top: 2562px;
+  	left: 744px;
+  	width: 318px;
+  	height: 280px;
+}
+.inscreva-se-a {
+  	position: absolute;
+  	top: 2630px;
+  	left: 771px;
+  	font-size: 32px;
+  	font-weight: 800;
+  	color: #fff;
+  	display: inline-block;
+  	width: 285px;
+  	height: 131px;
+  	text-shadow: 0px 4px 10.3px rgba(0, 0, 0, 0.25);
+}
+.captura-de-tela-2024-09-09-172 {
+  	position: absolute;
+  	top: 2532px;
+  	left: 70px;
+  	border-radius: 17px;
+  	width: 625px;
+  	height: 336px;
+  	object-fit: cover;
+}
+.tem-dvidas {
+  	margin: 0;
+  	font-size: 32px;
+}
+.blank-line {
+  	margin: 0;
+}
+.tem-dvidas-fale-container {
+  	position: absolute;
+  	top: 2615px;
+  	left: 105px;
+  	display: inline-block;
+  	color: #fff;
+  	width: 269px;
+  	height: 160px;
+  	text-shadow: 0px 4px 10.3px rgba(0, 0, 0, 0.25);
+  	font-size: 24px;
+}
+.desk-1-1 {
+  	position: absolute;
+  	top: 1074px;
+  	left: 145px;
+  	width: 1175px;
+  	height: 582px;
+  	object-fit: cover;
+}
+.combo-de-servios {
+  	position: absolute;
+  	top: 964px;
+  	left: 544px;
+  	font-size: 48px;
+  	font-family: 'Inria Sans';
+}
+.wireframe-1-child11 {
+  	position: absolute;
+  	top: 3006px;
+  	left: 228px;
+  	border-radius: 20px;
+  	width: 396px;
+  	height: 475px;
+  	object-fit: cover;
+}
+.quem-somos10 {
+  	position: absolute;
+  	top: 3027px;
+  	left: 659px;
+  	font-size: 24px;
+  	font-family: JejuGothic;
+}
+.wireframe-1-child12 {
+  	position: absolute;
+  	top: 4118px;
+  	left: 0px;
+  	background-color: #6459c5;
+  	width: 1440px;
+  	height: 400px;
+}
+.component-15 {
+  	position: absolute;
+  	top: 4217px;
+  	left: 64px;
+  	width: 152px;
+  	height: 19px;
+  	font-size: 20px;
+}
+.component-16 {
+  	position: absolute;
+  	top: 4261px;
+  	left: 106px;
+  	width: 69px;
+  	height: 21px;
+}
+.component-17 {
+  	position: absolute;
+  	top: 4292px;
+  	left: 106px;
+  	width: 59px;
+  	height: 16px;
+}
+.component-18 {
+  	position: absolute;
+  	top: 4324px;
+  	left: 106px;
+  	width: 49px;
+  	height: 19px;
+}
+.component-7 {
+  	position: absolute;
+  	top: 4217px;
+  	left: 278px;
+  	width: 124px;
+  	height: 19px;
+  	font-size: 20px;
+}
+.component-19 {
+  	position: absolute;
+  	top: 4263px;
+  	left: 292px;
+  	width: 109px;
+  	height: 17px;
+}
+.component-20 {
+  	position: absolute;
+  	top: 4292px;
+  	left: 293px;
+  	width: 85px;
+  	height: 19px;
+}
+.component-6 {
+  	position: absolute;
+  	top: 4324px;
+  	left: 293px;
+  	width: 109px;
+  	height: 19px;
+}
+.component-22 {
+  	position: absolute;
+  	top: 4217px;
+  	left: 452px;
+  	width: 119px;
+  	height: 24px;
+  	font-size: 20px;
+}
+.component-8 {
+  	position: absolute;
+  	top: 4217px;
+  	left: 603px;
+  	width: 101px;
+  	height: 24px;
+  	font-size: 20px;
+}
+.component-211 {
+  	position: absolute;
+  	top: 4263px;
+  	left: 452px;
+  	width: 65px;
+  	height: 19px;
+}
+.component-9 {
+  	position: absolute;
+  	top: 4293px;
+  	left: 452px;
+  	width: 88px;
+  	height: 18px;
+}
+.aceros-icon {
+  	position: absolute;
+  	top: 3562px;
+  	left: 130px;
+  	width: 545px;
+  	height: 430px;
+  	object-fit: cover;
+}
+.oip-14-icon {
+  	position: absolute;
+  	top: 3562px;
+  	left: 765px;
+  	width: 545px;
+  	height: 430px;
+  	object-fit: cover;
+}
+.desk-1-icon {
+  	position: absolute;
+  	top: 121px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 704px;
+  	object-fit: cover;
+}
+.wireframe-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 4512px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #000;
+  	font-family: Inter;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
